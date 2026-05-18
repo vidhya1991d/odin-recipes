@@ -5,6 +5,10 @@ button{
   color: pink;
 }
 
-.newbox{
-  color: red;
+.div{
+  background-color: blue;
+}
+
+.newbox {
+  background-color: yellow;
 }
